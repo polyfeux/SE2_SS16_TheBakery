@@ -1,0 +1,5 @@
+netbeans/target
+*.class
+*.netbeans_automatic_build
+*.war
+# einen neuen Kommentar
